@@ -70,7 +70,7 @@ export default function LoginPage() {
                     <BrandLogo>
                         <FiZap size={36} />
                     </BrandLogo>
-                    <BrandTitle>Poteito<span>OS</span></BrandTitle>
+                    <BrandTitle>Limão Comunicação</BrandTitle>
                     <BrandSubtitle>
                         Gestão completa de orçamentos e ordens de serviço para sua empresa de comunicação visual.
                     </BrandSubtitle>
