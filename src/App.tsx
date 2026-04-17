@@ -10,9 +10,12 @@ import LoginPage from '@/pages/login';
 import { DashboardHome } from '@/components/dashboard/home';
 import OrcamentosPage from '@/pages/orcamentos';
 import OrcamentosCreatePage from '@/pages/orcamentos/create';
+
 import TemplatesPage from '@/pages/templates';
 import TemplatesCreatePage from '@/pages/templates/create';
 import KanbanPage from '@/pages/kanban';
+
+
 import MateriaPrimaPage from '@/pages/materiaprima';
 import ProducaoPage from '@/pages/producao';
 import PropostaPage from '@/pages/proposta';
