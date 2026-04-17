@@ -1,0 +1,4 @@
+/* Global reset — estilos específicos gerenciados pelo GlobalStyle do styled-components */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
